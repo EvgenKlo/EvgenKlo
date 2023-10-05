@@ -17,6 +17,17 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-vitest-%23107C10?style=for-the-badge&logo=vitest&logoColor=yellow)
 
+### My personal projects:
+[Task Board](https://task-board-react.netlify.app/)
+[eCommerce application shop PetJoy](https://petjoy-by-kdy.netlify.app/)
+[Plants](https://evgenklo.github.io/plants/)
+[Momentum](https://evgenklo.github.io/momentum/momentum/)
+[Shelter](https://rolling-scopes-school.github.io/evgenklo-JSFE2023Q1/shelter/pages/main/)
+[Minesweeper Game](https://rolling-scopes-school.github.io/evgenklo-JSFE2023Q1/minesweeper/)
+[CSS Selectors Game](https://rolling-scopes-school.github.io/evgenklo-JSFE2023Q1/css-selectors/)
+[Virtual Keyboard](https://evgenklo.github.io/virtual-keyboard/)
+[CSS - accordeon](https://evgenklo.github.io/cssBayan/cssBayan/)
+
 ###  &nbsp;My Codewars profile
  [![codewars](https://www.codewars.com/users/EvgenKlo/badges/micro)](https://www.codewars.com/users/EvgenKlo)
 
