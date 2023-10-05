@@ -27,6 +27,12 @@
   <img height="175em align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvgenKlo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="mailto:klokovevgen@gmail.com"><img height="25em" src="https://img.shields.io/badge/-klokovevgen@gmail.com-D14836?style=flat&logo=Yandex&logoColor=white"/></a>
+</p>
+
 
 
 <!--
