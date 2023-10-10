@@ -28,10 +28,7 @@
 [Virtual Keyboard](https://evgenklo.github.io/virtual-keyboard/)  
 [CSS - accordeon](https://evgenklo.github.io/cssBayan/cssBayan/)  
 
-<p align='center'>
-    <a href="https://github.com/evgenklo/github-readme-stats"><img height=150
-                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgenklo&layout=compact"/></a>
-</p>
+<a href="https://github.com/evgenklo/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgenklo&layout=compact"/></a>
 
 ###  &nbsp;My Codewars profile
  [![codewars](https://www.codewars.com/users/EvgenKlo/badges/micro)](https://www.codewars.com/users/EvgenKlo)
