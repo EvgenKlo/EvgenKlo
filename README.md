@@ -17,7 +17,14 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-vitest-%23107C10?style=for-the-badge&logo=vitest&logoColor=yellow)
 
-### My personal projects:
+### My projects:
+https://cbo.ru/program/finansy-dlya-rukovoditelya_26-03-2024
+https://cbo.ru/program/molodezhnyj-gornyj-biznes-lager-el-brus_2024
+https://cbo.ru/program/bajkal-raskroj-svoj-potencial_2024
+https://cbo.ru/program/iskusstvo-ubezhdat-kommunikacii-lidera-i-liderstvo-v-kommunikaciyah-2024-06-06
+https://cbo.ru/etot-god-s-cbo
+https://cbo.ru/program/upravlenie-komandoj-v-2024
+https://cbo.ru/program/kod-molodosti-sakral-nye-praktiki-ozdorovleniya-i-omolozheniya-ot-guru-shri-dev-das-maharadzh
 [Task Board](https://task-board-react.netlify.app/)  
 [eCommerce application shop PetJoy](https://petjoy-by-kdy.netlify.app/)  
 [Plants](https://evgenklo.github.io/plants/)  
