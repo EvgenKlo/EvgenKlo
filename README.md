@@ -18,6 +18,7 @@
 ![Vitest](https://img.shields.io/badge/-vitest-%23107C10?style=for-the-badge&logo=vitest&logoColor=yellow)
 
 ### My projects:
+https://cbo.ru/program/mba-obuchenie-v-ekaterinburge-biznes-shkola-cbo
 https://cbo.ru/program/finansy-dlya-rukovoditelya_26-03-2024  
 https://cbo.ru/program/molodezhnyj-gornyj-biznes-lager-el-brus_2024  
 https://cbo.ru/program/bajkal-raskroj-svoj-potencial_2024  
